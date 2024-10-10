@@ -1,0 +1,102 @@
+/* Below is About Me Page's Style */
+    .navbar {
+        background-color: #07193c; 
+        padding: 20px;
+
+    }
+
+    .navbar p, a {
+        color: white; 
+        font-weight: bold;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 24px;
+    }
+
+
+    .m-4 h1 {
+        text-align: center;
+        font-family:'Times New Roman', Times, serif;
+        font-weight: bold;
+        color:#07193c;  
+    }
+
+    .m-4 img {
+        float: left;
+        margin-right: 20px;
+        margin-top: 2em;
+    }
+
+    .Introduce {
+        margin-top: 3em;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 150%;
+    }
+
+    .goal {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 150%;
+    }
+
+
+/* Below is My Work Page's Style */
+    .ProjecTitle {
+        text-align: left;
+        margin-top: 2em;
+        margin-left: 2em;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .MainIdea {
+        font-size: 150%;
+        margin-left: 2.5em;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .Projects {
+        font-size: 150%;
+        margin-top: 3em;
+        margin-left: 4em;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .Projects a {
+        color: #07193c;
+        font-size:medium;
+    }
+
+    .Projects img {
+        float: right;
+        margin-right: 300px;
+        margin-top: -150px;
+ 
+    }
+
+    .Classes {
+        font-size: 150%;
+        text-align: left;
+        margin-top: 3em;
+        margin-left: 4em;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .Classes th, td {
+        font-size: medium;
+        padding: 15px; 
+        border: 1px solid #07193c; 
+        text-align: center; 
+        vertical-align: middle; 
+    }
+
+    
+
+
+
+
+
+
+
+  
+
+    
